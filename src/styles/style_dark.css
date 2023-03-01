@@ -1,0 +1,45 @@
+body {
+	background-color: #111111;
+	size: 100%;
+}
+
+
+.div-table {
+	background-color: #141414;
+	color: #F6F3EA;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-color: #F6F3EA; 
+	border-width: 2px;
+	display: flex;
+	padding: 1rem;
+	font: 100% monospace;
+}
+
+
+#thead-gap {
+	color: #141414;
+}
+
+
+a { 
+	color: #DEBD70;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+
+a:hover {	
+	color: #141414;
+	background-color: #F6F3EA;
+}
+
+
+#path {
+	font-family: arial, helvetica-neue, sans-serif;
+	color: #EAEAEA;
+	padding: 1rem;
+	font-size: 19px;
+}
+
+
